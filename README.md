@@ -27,6 +27,7 @@ Use WordPress locally with Docker using [Docker compose](https://docs.docker.com
 
 <details>
  <summary>Requirements</summary>
+ 
 
 + [Docker](https://www.docker.com/get-started)
 + [mkcert](https://github.com/FiloSottile/mkcert) for creating the SSL cert.
